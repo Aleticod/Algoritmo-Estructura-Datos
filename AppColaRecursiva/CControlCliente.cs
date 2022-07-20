@@ -67,15 +67,16 @@ namespace AppColaRecursiva
         // --- Mostrar los cliente de la cola
         public void mostrarClientes()
         {
-            int longitudCola = Cola.longitud();
-            Console.WriteLine("ITEM   DNI      NOMBRES Y APELLIDOS");
-            for (int i = 0; i < longitudCola; i++)
-            {
-                CCliente cliente = new CCliente();
-                cliente = (CCliente)Cola.iesimo(i).Elemento;
-                Console.Write($"  {i + 1}    ");
-                cliente.mostrarDatos();
-            }
+            //int longitudCola = Cola.longitud();
+            Console.WriteLine("DNI      NOMBRES Y APELLIDOS");
+            Cola.mostrar();
+            //for (int i = 0; i < longitudCola; i++)
+            //{
+            //    CCliente cliente = new CCliente();
+            //    cliente = (CCliente)Cola.iesimo(i).Elemento;
+            //    Console.Write($"  {i + 1}    ");
+            //    cliente.mostrarDatos();
+            //}
         }
 
         // --- Longitud de la cola
@@ -155,7 +156,7 @@ namespace AppColaRecursiva
             int indice;
             Console.WriteLine("Ingrese los datos del cliente");
             CCliente cliente = new CCliente();
-            cliente.ingresarDatos();
+            cliente.ingresarDni();
             indice = Cola.ubicacion(cliente);
             if(indice != -1)
             {

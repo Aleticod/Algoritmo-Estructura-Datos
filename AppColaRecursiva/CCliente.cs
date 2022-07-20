@@ -45,9 +45,26 @@ namespace AppColaRecursiva
             Apellidos = Console.ReadLine().ToUpper();
         }
 
+        public void ingresarDni()
+        {
+            Console.WriteLine("Ingrese el DNI del cliente");
+            Dni = Console.ReadLine();
+        }
+
         public void mostrarDatos()
         {
             Console.WriteLine($"{Dni} {Nombres} {Apellidos}");
+        }
+
+        public override string ToString()
+        {
+            //return base.ToString();
+            return $"{Dni} {Nombres} {Apellidos}";
+        }
+
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
         }
     }
 }

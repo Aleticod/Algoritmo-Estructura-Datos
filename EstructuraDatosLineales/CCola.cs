@@ -76,12 +76,12 @@ namespace EstructuraDatosLineales
         }
 
         // ---- Mostrar cola
-        public void mostrarCola()
+        public void mostrar()
         {
             if(!esVacia())
             {
                 Console.WriteLine(aElemento.ToString());
-                aSubcola.mostrarCola();
+                aSubcola.mostrar();
             }
         }
 
@@ -129,7 +129,7 @@ namespace EstructuraDatosLineales
         {
             if(!esVacia())
             {
-                if(aElemento == pElemento)
+                if(aElemento.Equals(pElemento))
                 {
                     return 0;
                 }
