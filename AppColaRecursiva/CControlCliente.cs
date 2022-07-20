@@ -112,7 +112,7 @@ namespace AppColaRecursiva
             CCliente cliente = new CCliente();
             Console.Write("Ingrese el indice: ");
             indice = Convert.ToInt32(Console.ReadLine());
-            if(indice <= Cola.longitud())
+            if (indice <= Cola.longitud())
             {
                 cliente = (CCliente)Cola.iesimo(indice - 1).Elemento;
                 Console.WriteLine($"EL CLIENTE EN LA UBICACION {indice} ES");
@@ -127,21 +127,25 @@ namespace AppColaRecursiva
         // ---- Buscar un cliente por sus datos
         public void buscarCliente()
         {
-            string dni;
-            bool existe = false;
-            Console.WriteLine("Ingrese el dni del cliente");
-            dni = Console.ReadLine();
-            for (int i = 0; i < Cola.longitud(); i++)
-            {
-                CCliente cliente = new CCliente();
-                cliente = (CCliente)Cola.iesimo(i).Elemento;
-                if (dni == cliente.Dni)
-                {
-                    existe = true;
-                    break;
-                }
-            }
-            if(existe)
+            //string dni;
+            //bool existe = false;
+            bool existe;
+            Console.WriteLine("Ingrese datos del cliente");
+            CCliente cliente = new CCliente();
+            cliente.ingresarDatos();
+            existe = Cola.buscar(cliente);
+            //dni = Console.ReadLine();
+            //for (int i = 0; i < Cola.longitud(); i++)
+            //{
+            //    CCliente cliente = new CCliente();
+            //    cliente = (CCliente)Cola.iesimo(i).Elemento;
+            //    if (dni == cliente.Dni)
+            //    {
+            //        existe = true;
+            //        break;
+            //    }
+            //}
+            if (existe)
             {
                 Console.WriteLine("El cliente si está en la cola");
             }
@@ -154,19 +158,20 @@ namespace AppColaRecursiva
         public void mostrarUbicacionCliente()
         {
             int indice;
-            Console.WriteLine("Ingrese los datos del cliente");
+            Console.WriteLine("Ingrese datos del cliente");
             CCliente cliente = new CCliente();
-            cliente.ingresarDni();
+            cliente.ingresarDatos();
             indice = Cola.ubicacion(cliente);
-            if(indice != -1)
+            if (indice != -1)
             {
-                Console.WriteLine($"El cliente está en la ubicacion: {indice}");
+                Console.WriteLine($"La ubicación del cliente es: {indice}");
             }
             else
             {
-                Console.WriteLine("El cliente no se encuentra en la cola");
+                Console.WriteLine("El cliente no está en la cola");
             }
         }
+
         public void ejecutar()
         {
             CControlCliente cola = new CControlCliente();
@@ -202,7 +207,7 @@ namespace AppColaRecursiva
                         cola.buscarCliente();
                         break;
                     case 9:
-                        mostrarUbicacionCliente();
+                        cola.mostrarUbicacionCliente();
                         break;
                     case 10:
                         break;

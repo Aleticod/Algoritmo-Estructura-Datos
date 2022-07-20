@@ -109,29 +109,30 @@ namespace EstructuraDatosLineales
         {
             if(!esVacia())
             {
-                if (pElemento.Equals(Elemento))
+                if(Elemento.Equals(pElemento))
                 {
                     return true;
                 }
                 else
                 {
-                    return aSubcola.buscar(pElemento);
+                   return aSubcola.buscar(pElemento);
                 }
             }
             else
             {
                 return false;
             }
+            
         }
 
         // ---- Ubicacion
         public int ubicacion(Object pElemento)
         {
-            if(!esVacia())
+            if (!esVacia())
             {
-                if(aElemento.Equals(pElemento))
+                if (Elemento.Equals(pElemento))
                 {
-                    return 0;
+                    return 1;
                 }
                 else
                 {
