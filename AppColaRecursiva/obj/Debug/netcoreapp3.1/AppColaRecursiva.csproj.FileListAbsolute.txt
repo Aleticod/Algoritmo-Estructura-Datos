@@ -1,0 +1,16 @@
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\bin\Debug\netcoreapp3.1\AppColaRecursiva.exe
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\bin\Debug\netcoreapp3.1\AppColaRecursiva.deps.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\bin\Debug\netcoreapp3.1\AppColaRecursiva.runtimeconfig.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\bin\Debug\netcoreapp3.1\AppColaRecursiva.runtimeconfig.dev.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\bin\Debug\netcoreapp3.1\AppColaRecursiva.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\bin\Debug\netcoreapp3.1\AppColaRecursiva.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\bin\Debug\netcoreapp3.1\EstructuraDatosLineales.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\bin\Debug\netcoreapp3.1\EstructuraDatosLineales.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\obj\Debug\netcoreapp3.1\AppColaRecursiva.csproj.AssemblyReference.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\obj\Debug\netcoreapp3.1\AppColaRecursiva.AssemblyInfoInputs.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\obj\Debug\netcoreapp3.1\AppColaRecursiva.AssemblyInfo.cs
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\obj\Debug\netcoreapp3.1\AppColaRecursiva.csproj.CoreCompileInputs.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\obj\Debug\netcoreapp3.1\AppColaRecursiva.csproj.CopyComplete
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\obj\Debug\netcoreapp3.1\AppColaRecursiva.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\obj\Debug\netcoreapp3.1\AppColaRecursiva.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppColaRecursiva\obj\Debug\netcoreapp3.1\AppColaRecursiva.genruntimeconfig.cache
