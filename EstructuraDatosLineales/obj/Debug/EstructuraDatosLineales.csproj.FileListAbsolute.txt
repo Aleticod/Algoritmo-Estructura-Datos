@@ -4,3 +4,9 @@ D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\EstructuraDatosLineales\obj\Deb
 D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\EstructuraDatosLineales\obj\Debug\EstructuraDatosLineales.csproj.CoreCompileInputs.cache
 D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\EstructuraDatosLineales\obj\Debug\EstructuraDatosLineales.dll
 D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\EstructuraDatosLineales\obj\Debug\EstructuraDatosLineales.pdb
+C:\Users\anadel\OneDrive\Documentos\HARVEY\INFORMATICA\ALGORITMO-ESTRUCTURA-DATOS\EstructuraDatosLineales\bin\Debug\EstructuraDatosLineales.dll
+C:\Users\anadel\OneDrive\Documentos\HARVEY\INFORMATICA\ALGORITMO-ESTRUCTURA-DATOS\EstructuraDatosLineales\bin\Debug\EstructuraDatosLineales.pdb
+C:\Users\anadel\OneDrive\Documentos\HARVEY\INFORMATICA\ALGORITMO-ESTRUCTURA-DATOS\EstructuraDatosLineales\obj\Debug\EstructuraDatosLineales.csproj.AssemblyReference.cache
+C:\Users\anadel\OneDrive\Documentos\HARVEY\INFORMATICA\ALGORITMO-ESTRUCTURA-DATOS\EstructuraDatosLineales\obj\Debug\EstructuraDatosLineales.csproj.CoreCompileInputs.cache
+C:\Users\anadel\OneDrive\Documentos\HARVEY\INFORMATICA\ALGORITMO-ESTRUCTURA-DATOS\EstructuraDatosLineales\obj\Debug\EstructuraDatosLineales.dll
+C:\Users\anadel\OneDrive\Documentos\HARVEY\INFORMATICA\ALGORITMO-ESTRUCTURA-DATOS\EstructuraDatosLineales\obj\Debug\EstructuraDatosLineales.pdb

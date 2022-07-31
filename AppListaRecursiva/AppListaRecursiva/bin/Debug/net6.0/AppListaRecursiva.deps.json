@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AppListaRecursiva/1.0.0": {
+        "dependencies": {
+          "EstructuraDatosLineales": "1.0.0.0"
+        },
+        "runtime": {
+          "AppListaRecursiva.dll": {}
+        }
+      },
+      "EstructuraDatosLineales/1.0.0.0": {
+        "runtime": {
+          "EstructuraDatosLineales.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppListaRecursiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EstructuraDatosLineales/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
