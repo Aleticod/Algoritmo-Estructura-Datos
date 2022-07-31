@@ -1,0 +1,16 @@
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\bin\Debug\netcoreapp3.1\AppPilaRecursiva.exe
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\bin\Debug\netcoreapp3.1\AppPilaRecursiva.deps.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\bin\Debug\netcoreapp3.1\AppPilaRecursiva.runtimeconfig.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\bin\Debug\netcoreapp3.1\AppPilaRecursiva.runtimeconfig.dev.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\bin\Debug\netcoreapp3.1\AppPilaRecursiva.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\bin\Debug\netcoreapp3.1\AppPilaRecursiva.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\bin\Debug\netcoreapp3.1\EstructuraDatosLineales.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\bin\Debug\netcoreapp3.1\EstructuraDatosLineales.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\obj\Debug\netcoreapp3.1\AppPilaRecursiva.csproj.AssemblyReference.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\obj\Debug\netcoreapp3.1\AppPilaRecursiva.AssemblyInfoInputs.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\obj\Debug\netcoreapp3.1\AppPilaRecursiva.AssemblyInfo.cs
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\obj\Debug\netcoreapp3.1\AppPilaRecursiva.csproj.CoreCompileInputs.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\obj\Debug\netcoreapp3.1\AppPilaRecursiva.csproj.CopyComplete
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\obj\Debug\netcoreapp3.1\AppPilaRecursiva.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\obj\Debug\netcoreapp3.1\AppPilaRecursiva.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppPilaRecursiva\obj\Debug\netcoreapp3.1\AppPilaRecursiva.genruntimeconfig.cache

@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="CCola.cs" />
     <Compile Include="CLista.cs" />
+    <Compile Include="CPila.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

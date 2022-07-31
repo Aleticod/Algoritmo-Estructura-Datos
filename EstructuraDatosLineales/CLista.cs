@@ -104,7 +104,7 @@ namespace EstructuraDatosLineales
         {
             if (!esVacia())
             {
-                if (aSublista.Elemento == null)
+                if (aSublista.esVacia())
                 {
                     aElemento = null;
                     aSublista = null;

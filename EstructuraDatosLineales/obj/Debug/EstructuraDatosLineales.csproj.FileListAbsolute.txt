@@ -1,6 +1,5 @@
 D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\EstructuraDatosLineales\bin\Debug\EstructuraDatosLineales.dll
 D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\EstructuraDatosLineales\bin\Debug\EstructuraDatosLineales.pdb
-D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\EstructuraDatosLineales\obj\Debug\EstructuraDatosLineales.csproj.AssemblyReference.cache
 D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\EstructuraDatosLineales\obj\Debug\EstructuraDatosLineales.csproj.CoreCompileInputs.cache
 D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\EstructuraDatosLineales\obj\Debug\EstructuraDatosLineales.dll
 D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\EstructuraDatosLineales\obj\Debug\EstructuraDatosLineales.pdb
