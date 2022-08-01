@@ -149,18 +149,44 @@ namespace EstructuraDatosLineales
             }
         }
 
-        public void iesimo(int indice)
+        public CLista iesimo(int indice)
         {
             if(!esVacia())
             {
                 if(indice == 0)
                 {
-                    Console.WriteLine(aElemento.ToString());
+                    return this;
                 }
                 else
                 {
-                    aSublista.iesimo(indice - 1);
+                    return aSublista.iesimo(indice - 1);
                 }
+            }
+            return null;
+        }
+
+        public void modificar(Object pElemento, int indice)
+        {
+            if (indice == 0)
+            {
+                aElemento = pElemento;
+            }
+
+            else
+            {
+                aSublista.modificar(pElemento, indice - 1);
+            }
+        }
+
+        public CLista ultimo()
+        {
+            if (aSublista.esVacia())
+            {
+                return this;
+            }
+            else
+            {
+                return aSublista.ultimo();
             }
         }
 

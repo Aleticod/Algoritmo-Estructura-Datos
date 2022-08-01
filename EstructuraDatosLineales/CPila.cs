@@ -116,15 +116,15 @@ namespace EstructuraDatosLineales
             }
         }
 
-        public void iesimo(int indice)
+        public CPila iesimo(int indice)
         {
             if(indice == longitud - 1)
             {
-                Console.WriteLine(aElemento.ToString());
+                return this;
             }
             else
             {
-                aSubpila.iesimo(indice);
+                return aSubpila.iesimo(indice);
             }
         }
 

@@ -1,0 +1,16 @@
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\bin\Debug\netcoreapp3.1\AppReniec.exe
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\bin\Debug\netcoreapp3.1\AppReniec.deps.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\bin\Debug\netcoreapp3.1\AppReniec.runtimeconfig.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\bin\Debug\netcoreapp3.1\AppReniec.runtimeconfig.dev.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\bin\Debug\netcoreapp3.1\AppReniec.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\bin\Debug\netcoreapp3.1\AppReniec.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\bin\Debug\netcoreapp3.1\EstructuraDatosLineales.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\bin\Debug\netcoreapp3.1\EstructuraDatosLineales.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\obj\Debug\netcoreapp3.1\AppReniec.csproj.AssemblyReference.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\obj\Debug\netcoreapp3.1\AppReniec.AssemblyInfoInputs.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\obj\Debug\netcoreapp3.1\AppReniec.AssemblyInfo.cs
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\obj\Debug\netcoreapp3.1\AppReniec.csproj.CoreCompileInputs.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\obj\Debug\netcoreapp3.1\AppReniec.csproj.CopyComplete
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\obj\Debug\netcoreapp3.1\AppReniec.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\obj\Debug\netcoreapp3.1\AppReniec.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppReniec\obj\Debug\netcoreapp3.1\AppReniec.genruntimeconfig.cache
