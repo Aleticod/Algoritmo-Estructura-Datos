@@ -68,23 +68,29 @@ namespace ArbolesGrafos
             return aRaiz == null && aPrimerHijo == null && aSiguienteHermano == null;
         }
 
-        public void Agregar(Object pRaiz) { 
-            
+        public void Agregar(Object pRaiz, CArbolNario pArbol) { 
+
+            if ( EsVacio())
+            {
+                aRaiz = pRaiz;
+            }
+            else
+            {
+                AgregarHijo(pRaiz);
+            }
         }
 
 
         public void AgregarHijo(Object pRaiz)
         {
-            if (!EsVacio())
+            
+            if(aPrimerHijo == null)
             {
-                if(aPrimerHijo == null)
-                {
-                    aPrimerHijo = new CArbolNario(pRaiz);
-                }
-                else
-                {
-                    AgregarHermano(pRaiz);
-                }
+                aPrimerHijo = new CArbolNario(pRaiz);
+            }
+            else
+            {
+                AgregarHermano(pRaiz);
             }
         }
 
