@@ -41,8 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aristas.cs" />
     <Compile Include="CArbolNario.cs" />
+    <Compile Include="CGrafo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vertice.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

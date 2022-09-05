@@ -1,0 +1,16 @@
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\bin\Debug\netcoreapp3.1\AppGrafos.exe
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\bin\Debug\netcoreapp3.1\AppGrafos.deps.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\bin\Debug\netcoreapp3.1\AppGrafos.runtimeconfig.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\bin\Debug\netcoreapp3.1\AppGrafos.runtimeconfig.dev.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\bin\Debug\netcoreapp3.1\AppGrafos.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\bin\Debug\netcoreapp3.1\AppGrafos.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\bin\Debug\netcoreapp3.1\ArbolesGrafos.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\bin\Debug\netcoreapp3.1\ArbolesGrafos.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\obj\Debug\netcoreapp3.1\AppGrafos.csproj.AssemblyReference.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\obj\Debug\netcoreapp3.1\AppGrafos.AssemblyInfoInputs.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\obj\Debug\netcoreapp3.1\AppGrafos.AssemblyInfo.cs
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\obj\Debug\netcoreapp3.1\AppGrafos.csproj.CoreCompileInputs.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\obj\Debug\netcoreapp3.1\AppGrafos.csproj.CopyComplete
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\obj\Debug\netcoreapp3.1\AppGrafos.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\obj\Debug\netcoreapp3.1\AppGrafos.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppGrafos\obj\Debug\netcoreapp3.1\AppGrafos.genruntimeconfig.cache

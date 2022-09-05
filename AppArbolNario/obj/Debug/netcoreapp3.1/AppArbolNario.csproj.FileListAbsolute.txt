@@ -1,0 +1,16 @@
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\bin\Debug\netcoreapp3.1\AppArbolNario.exe
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\bin\Debug\netcoreapp3.1\AppArbolNario.deps.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\bin\Debug\netcoreapp3.1\AppArbolNario.runtimeconfig.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\bin\Debug\netcoreapp3.1\AppArbolNario.runtimeconfig.dev.json
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\bin\Debug\netcoreapp3.1\AppArbolNario.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\bin\Debug\netcoreapp3.1\AppArbolNario.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\bin\Debug\netcoreapp3.1\ArbolesGrafos.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\bin\Debug\netcoreapp3.1\ArbolesGrafos.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\obj\Debug\netcoreapp3.1\AppArbolNario.csproj.AssemblyReference.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\obj\Debug\netcoreapp3.1\AppArbolNario.AssemblyInfoInputs.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\obj\Debug\netcoreapp3.1\AppArbolNario.AssemblyInfo.cs
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\obj\Debug\netcoreapp3.1\AppArbolNario.csproj.CoreCompileInputs.cache
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\obj\Debug\netcoreapp3.1\AppArbolNario.csproj.CopyComplete
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\obj\Debug\netcoreapp3.1\AppArbolNario.dll
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\obj\Debug\netcoreapp3.1\AppArbolNario.pdb
+D:\ING_INFO_SIST\3.-ALGORITMO_Y_ESTRUCTURA\3.-C#\AppArbolNario\obj\Debug\netcoreapp3.1\AppArbolNario.genruntimeconfig.cache
